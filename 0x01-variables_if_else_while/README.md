@@ -4,3 +4,4 @@ File 2-print_alphabet.c is a C program that prints the alphabet in lowercase, fo
 File 3-Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 File 4-print_alphabt.c is a C program that prints the alphabet in lowercase, except q and e, followed by a new line.
 File 5-print_numbers.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+File 6-print_numberz.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar.

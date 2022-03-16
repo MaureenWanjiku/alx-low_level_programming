@@ -8,6 +8,7 @@ int main(void)
 {
 	unsigned long f1 = 0, f2 = 1, f_sum;
 	float tot_sum;
+
 	while (1)
 	{
 		f_sum = f1 + f2;

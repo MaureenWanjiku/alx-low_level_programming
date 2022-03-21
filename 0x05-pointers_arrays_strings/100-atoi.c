@@ -17,7 +17,9 @@ for (j = 0; j <= 9; j++)
 if (s[i] == (j + '0'))
 {
 num = j;
-sum = sum * 10 + num;															f = 1;																																		}																	else if (f == 1 && s[i] == ' ')														f = 2;
+sum = sum * 10 + num;															f = 1;																	}
+else if (f == 1 && s[i] == ' ')
+f = 2;
 }
 }
 if (f == 0)
